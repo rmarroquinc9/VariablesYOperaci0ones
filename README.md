@@ -1,6 +1,6 @@
 # VariablesYOperaci0ones
 ##1️⃣ Respuestas Teóricas
-###¿Para qué se utilizan los operadores lógicos en programación? Son utiliadas para condiciones boolenas
+###¿Para qué se utilizadas los operadores lógicos en programación? Son utiliadas para condiciones boolenas
 son fundamentales para tomar decisiones en código, especialmente en estructuras como (if) (while) (for) 
 
 ##¿Por qué es importante declarar correctamente el tipo de dato de una variable?
@@ -11,4 +11,22 @@ son fundamentales para tomar decisiones en código, especialmente en estructuras
 Explicar qué estructura de control utilizó en:
 
 ##Clasificación de edad.
+Utilice el "if-else"  porque se evalúan los rangos numéricos. Switch no es adecuados para ranos, solo para valores exactos.
+
+###Día de semana 
+Se utilizo "Switch" Porque es para valores específicos entre varias opciones fijas. Switch es más ordenado y legible.
+
+###Verificación de acceso 
+utilicé "" if-else""  porque se debe evaluar condiciones compuestas 
+por ejemplo - usuario incorrecto 
+            - contraseña incorrrecta 
+            - acceso correcto 
+
+
+
+
+
+
+
+
 
